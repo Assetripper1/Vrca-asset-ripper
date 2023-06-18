@@ -1,1 +1,1 @@
-# Vrca-asset-ripper
+AssetRipper is a tool for extracting assets from Unity serialized files (CAB-*, *.assets, *.sharedAssets, etc.) and asset bundles (*.unity3d, *.bundle, etc.) and converting them into the native Unity engine format.
